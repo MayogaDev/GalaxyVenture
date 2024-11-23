@@ -1,3 +1,8 @@
+🌌 GalaxyVenture: Simulación 3D del Sistema Solar
+📅 Período: Septiembre 2023 - Diciembre 2023
+🏫 Asociado con: Universidad Nacional de San Agustín de Arequipa
+🏆 Evento: Proyecto presentado en el NASA International Space Apps Challenge 2023
+
 📝 Descripción del Proyecto
 GalaxyVenture es una innovadora aplicación web en 3D desarrollada con Three.js, que simula el sistema solar y ofrece una experiencia interactiva para explorar planetas y paisajes sorprendentes. Como usuario, pilotarás un ovni a través del sistema solar, descubriendo escenas ocultas en planetas como la Tierra, Saturno y Júpiter, diseñadas para cautivar y educar mediante una experiencia inmersiva y visualmente impresionante.
 
