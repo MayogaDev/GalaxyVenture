@@ -1,24 +1,32 @@
-# Galaxy
+📝 Descripción del Proyecto
+GalaxyVenture es una innovadora aplicación web en 3D desarrollada con Three.js, que simula el sistema solar y ofrece una experiencia interactiva para explorar planetas y paisajes sorprendentes. Como usuario, pilotarás un ovni a través del sistema solar, descubriendo escenas ocultas en planetas como la Tierra, Saturno y Júpiter, diseñadas para cautivar y educar mediante una experiencia inmersiva y visualmente impresionante.
 
-This is a 3D web application made by Three.js that simulates planetary system and natural or unnatural landscapes on planets. You will drive an ufo to explore in the Solar system. During the exploration, you may fall into the secret scenes on some of the planets, such as Earth, Saturn and Jupiter. All the scenes are elaborated to provide you a nice exploring experience.
+🚀 Características Principales
+🌍 Simulación Planetaria: Recreación en 3D del sistema solar con planetas modelados cuidadosamente.
+🛸 Exploración Interactiva: Controla un ovni para explorar el sistema solar y descubrir secretos únicos.
+🎨 Escenas Ocultas: Experiencias exclusivas diseñadas para sorprender, como paisajes naturales y escenarios fantásticos en planetas clave.
+💻 Gráficos 3D con Three.js: Experiencia fluida y optimizada mediante el uso de tecnologías avanzadas de renderizado.
+🔍 Educación y Entretenimiento: Un enfoque interactivo para aprender sobre el espacio mientras disfrutas de un viaje gráfico inmersivo.
 
-## Instructions
+🎯 Resultados del Proyecto
+🏅 Reconocimiento Internacional: Proyecto destacado en el evento NASA International Space Apps Challenge 2023.
+📌 Experiencia Educativa Inmersiva: Plataforma que combina exploración espacial, entretenimiento y educación.
+🧩 Detalles Visuales Cautivadores: Paisajes 3D únicos diseñados para sorprender y fomentar el interés por la astronomía.
 
-Press WASD to move, press shift to speed up. Click a place to transfer. Press the Escape to open the menus.
+💻 Tecnologías Utilizadas
+Framework Gráfico: Three.js
+Lenguajes de Programación: JavaScript, HTML, CSS
+Modelado 3D: Blender
+Renderizado: WebGL
+Entornos de Desarrollo: Visual Studio Code
 
-Earth, Saturn and Jupiter are three magic planets. Find these three planets and click them to chase them. After 5 seconds, you will be redirected to the island, stormy word and alien base, respectively.
+🌟 Objetivo
+Diseñar una experiencia visual y educativa que permita a los usuarios explorar el sistema solar de manera interactiva y entretenida, destacando el potencial del diseño gráfico 3D en el ámbito educativo.
 
-If you want to go back to the solar, just fly to the sky and then you will be redirected to the solar (click the moon in the island or click the Jupiter in the alien base is also okay).
+📷 Imagenes del Proyecto
+- Capturas de la Simulación 3D
+  ![Captura Ovni](https://github.com/user-attachments/assets/94619565-62b5-4a6a-b1d2-2a88a17f4572)
 
-Video
--------
-
-**Youtube:** https://youtu.be/FjoukXWpkrU
-
-**Bilibili:** https://b23.tv/D9YAPX
-
-## Live Demo
-
-https://3-d-web-page-galaxy.vercel.app/
-
-**A RTX2060 or better GPU is highly recommended for this program!**
+- Proceso de Modelado 3D
+  
+- Presentacion de diapositivas de propuesta de proyecto
