@@ -96,3 +96,8 @@ Crear una experiencia educativa e interactiva que permita a los usuarios explora
 ---
 
 🎮 **Explora y Aprende en el Espacio con GalaxyVenture**
+
+---
+
+## 👥 **Expresiones de gratitud**  
+Este proyecto se lleva a cabo orgullosamente en colaboración con la **Universidad Nacional de San Agustín de Arequipa**, con contribuciones de investigadores y estudiantes dedicados al avance de las tecnologías de accesibilidad.
